@@ -15,7 +15,7 @@ permissions:
 
 env:
   AWS_REGION: ap-south-1
-  EKS_CLUSTER: ai-interview-1
+  EKS_CLUSTER: my-proj
   K8S_NAMESPACE: default
   ECR_REPO: ai-interview-dev-platform
 
