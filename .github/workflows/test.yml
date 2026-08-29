@@ -12,7 +12,7 @@ permissions:
 env:
    AWS_REGION: ap-south-1        # cluster ap-south-1 la irukku, us-west-2 illa
    CLUSTER: my-proj
-   NS: demo
+   NS: default
 
 jobs:
   verify:
